@@ -15,6 +15,12 @@ $ cd
 $ git clone https://github.com/Gess78/.tmux.git
 $ ln -s -f .tmux/.tmux.conf
 $ cp .tmux/.tmux.conf.local .
+
+# or
+cd&&\
+git clone https://github.com/Gess78/.tmux.git&&\
+ln -s -f .tmux/.tmux.conf&&\
+cp .tmux/.tmux.conf.local .
 ```
 [initial from](https://github.com/gpakosz/.tmux)
 
